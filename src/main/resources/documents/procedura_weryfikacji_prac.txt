@@ -1,0 +1,39 @@
+Zał. do ZW 118/2023
+
+Procedura weryfikacji prac licencjackich, inżynierskich i magisterskich w celu przeciwdziałania naruszeniom praw autorskich 
+
+
+§ 1
+Procedurze weryfikacji prac licencjackich, inżynierskich i magisterskich, zwanej dalej „procedurą antyplagiatową”, przez Jednolity System Antyplagiatowy, zwany dalej „JSA”, prowadzony przez ministra właściwego do spraw szkolnictwa wyższego i nauki podlega każda praca licencjacka, inżynierska i magisterska, zwana dalej „pracą dyplomową”, wykonana przez studenta realizującego przedmiot „praca dyplomowa”.
+Celem stosowania procedury antyplagiatowej jest przeciwdziałanie naruszaniu praw autorskich i nieuprawnionemu wykorzystywaniu własności intelektualnej osób trzecich. Za prawidłowość realizowania procedury antyplagiatowej na wydziale odpowiada dziekan.
+Procedura antyplagiatowa określa zasady i tryb:
+1) weryfikacji pracy dyplomowej pod względem samodzielnego jej wykonania;
+2) dopuszczania lub niedopuszczania studenta do egzaminu dyplomowego.
+§ 2
+W terminie wyznaczonym przez dziekana student wprowadza do Archiwum Prac Dyplomowych, zwany dalej „APD”, dostępnym pod adresem https://apd.usos.pwr.edu.pl, pracę dyplomową wraz z załącznikami, słowami kluczowymi w języku polskim i angielskim oraz zwięzłym streszczeniem pracy dyplomowej w języku polskim i angielskim, wysyłając ją opiekunowi do akceptacji. 
+W celu wprowadzenia do APD Student zapisuje pisemną pracę dyplomową w pliku/plikach wyłącznie w formacie pdf, poza załącznikami multimedialnymi lub graficznymi, które są zapisywane w formacie dla siebie właściwym. 
+Po ostatecznej akceptacji pracy przez opiekuna student składa w dziekanacie w terminie i trybie zgodnym z harmonogramem określonym przez dziekana: 
+wydrukowaną pracę dyplomową; 
+wydrukowane i podpisane oświadczenie, o którym mowa w ust. 4;
+deklarację podpisaną przez wszystkich studentów realizujących daną pracę dyplomową z określeniem udziału w pracy każdego z nich (dotyczy przypadku wspólnej realizacji pracy dyplomowej).
+Teksty pracy dyplomowej:
+wydrukowanej,
+wprowadzonej do APD, zgodnie z ust. 1,w formacie określonym w ust. 2,
+muszą być identyczne, co student poświadcza, składając w APD oraz u opiekuna (zgodnie z ust. 3) stosowne oświadczenie, którego wzór stanowi załącznik nr 1.
+Temat pracy dyplomowej, zawarty w treści pracy, musi być tożsamy z zatwierdzonym tytułem pracy dyplomowej wpisanym do APD. W przeciwnym wypadku opiekun kieruje pracę do poprawy przez studenta.
+Opiekun w nieprzekraczalnym terminie dwóch dni roboczych od dnia wprowadzenia przez studenta pracy dyplomowej do systemu (APD) przesyła ją do analizy w JSA za pośrednictwem APD – zgodnie z instrukcją dostępną w tym systemie online. 
+W terminie wyznaczonym przez dziekana uprawniony pracownik wydziału wprowadza do APD recenzenta pracy dyplomowej.
+Dla każdej przekazanej do analizy pracy dyplomowej JSA przesyła opiekunowi raporty z badania antyplagiatowego – ogólny oraz szczegółowy – zawierające m.in. procentowy rozmiar podobieństwa, analizę zapożyczeń, analizę manipulacji na tekście, analizę stylometrii, rozkład długości wyrazów. Po zapoznaniu się z ww. raportami opiekun, po akceptacji pracy, drukuje raport ogólny, który po wypełnieniu i podpisaniu powinien zostać przekazany do dziekanatu w terminie ustalonym harmonogramem dziekana. Raport szczegółowy pozostaje tylko do wglądu w wersji elektronicznej w panelu APD.
+Opiekun, uwzględniając wyniki otrzymanych raportów, może uznać, że praca nie wskazuje istotnych podobieństw w ramach weryfikacji przez JSA. Tym samym stwierdza, że praca jest wykonana samodzielnie przez studenta. Po weryfikacji formalnej opiekun przekazuje pracę do recenzenta w celu wprowadzenia recenzji. Recenzent, zgodnie z harmonogramem dziekana, przystępuje do wykonania recenzji pracy dyplomowej.
+W razie wykrycia przez JSA manipulacji na tekście pracy dyplomowej opiekun dokonuje wstępnej oceny i może skierować pracę do poprawy, a w przypadku rażących manipulacji konsultuje się z dziekanem. Po poprawie pracy przez studenta (tj. usunięciu manipulacji na tekście) opiekun kieruje pracę do ponownego badania. 
+Jeśli z wniosków zawartych w raporcie z badania antyplagiatowego wynika, że praca zawiera nieuprawnione zapożyczenia, opiekun drukuje Raport szczegółowy  i przekazuje zgromadzoną dokumentację dziekanowi, który zawiadamia Rektora. Rektor podejmuje decyzję o przekazaniu sprawy do zbadania przez właściwą komisję do spraw dyscyplinarnych – za pośrednictwem rzecznika dyscyplinarnego.
+Opiekun pracy dyplomowej monitoruje terminowość przebiegu procedury antyplagiatowej w APD, w szczególności w odniesieniu do ustępów 1, 5 i 7.
+ Przed wyznaczonym terminem egzaminu dyplomowego, zgodnie z harmonogramem dziekana:
+opiekun przekazuje do dziekanatu: 
+wydrukowany i podpisany Raport ogólny z badania antyplagiatowego  zawierający stwierdzenie, czy praca nie nosi znamion plagiatu;
+w przypadku określonym w ust. 9 lub 10 wydrukowany i podpisany przez opiekuna „Raport  szczegółowy” zawierający stwierdzenie, czy praca nosi znamiona plagiatu;
+wydrukowaną i podpisaną opinię promotora (recenzję);
+recenzent przekazuje do dziekanatu wydrukowany i podpisany druk recenzji; 
+pracownik dziekanatu dołącza dokumenty wymienione w pkt. 1 i 2 do teczki aktowej studenta.
+Po złożeniu egzaminu dyplomowego przez studenta praca dyplomowa za pośrednictwem APD przekazywana jest do Ogólnopolskiego Repozytorium Pisemnych Prac Dyplomowych.
+Szczegółowe instrukcje dla użytkowników systemu dostępne są na stronie APD.

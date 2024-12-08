@@ -1,0 +1,16 @@
+Od semestru letniego 2022/2023 obsługa procesów związanych z pracami dyplomowymi realizowana jest wyłącznie w systemie USOS-APD. (http://apd.usos.pwr.edu.pl/)
+
+ W USOS-APD zdefiniowane są dwie czynności:
+
+zgłoszenie tematu pracy dyplomowej
+zgłoszenie wniosku o zatwierdzenie tematu pracy dyplomowej
+Zgłoszenie tematu pracy dyplomowej ma charakter ogólny i nie jest tożsame ze zgłoszeniem tematu do zatwierdzenia przez Komisję Programową Kierunku. Zgłoszenia tematu można dokonać nie przypisując studenta do tematu, a jedynie opublikować go w Katalogu, gdzie student może przeglądać dostępne propozycje tematów prac dyplomowych oferowane przez prowadzących.
+
+Zgłoszenie wniosku o zatwierdzenie tematu pracy dyplomowej nastąpić może tylko wtedy, gdy do tematu zostanie przypisany student.
+
+Zgłoszenie wniosku można przygotować:
+
+na podstawie wcześniejszego zgłoszenia tematu pracy dyplomowej, gdy po opublikowaniu tematu w Katalogu zgłosi się do prowadzącego chętny student
+z ominięciem zgłoszenia pracy dyplomowej – ścieżka ta jest polecana w sytuacji, gdy propozycja tematu pracy dyplomowej jest przygotowana dla konkretnego studenta.
+Ze względu na specyfikę systemu USOS-APD należy zgłaszać temat bądź wniosek o zatwierdzenie tematu zgodnie z instrukcjami postępowania, z dbałością o poprawność językową i edytorską oraz zwracając uwagę na wymagania stawiane pracom dyplomowym. Zwrócenie promotorowi tematu z błędami możliwe jest dopiero na poziomie rozpatrywania go przez Komisję Programową Kierunku.
+

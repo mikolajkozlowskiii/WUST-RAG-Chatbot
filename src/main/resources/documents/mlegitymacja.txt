@@ -1,0 +1,21 @@
+mLegitymacja
+mLegitymacja to mobilna wersja dokumentu potwierdzająca status studenta i uprawniająca do korzystania z ustawowych ulg. Jej uruchomienie jest możliwe dzięki bezpłatnej aplikacji mObywatel.
+
+mLegitymację może zamówić student, który spełnia łącznie wszystkie poniższe kryteria:
+
+posiada aktywny status studenta;
+posiada numer PESEL;
+posiada Elektroniczną Legitymację Studencką (plastikową), która została przedłużona w systemie (potwierdzona naklejeniem ważnego hologramu)
+dane osobowe studenta nie zmieniły się od czasu wydania ELS.
+posiada zainstalowaną aplikację mObywatel
+Instrukcja Aktywacji:
+
+Aby aktywować mLegitymację na telefonie należy przede wszystkim :
+
+pobrać i zainstalować na telefonie aplikację mObywatel - https://www.gov.pl/web/mobywatel
+pobrać i zainstalować na telefonie aplikację Mobilny USOS PWr (użytkownicy telefonów z systemem Android) https://play.google.com/store/apps/details?id=pl.edu.pwr.mobilny&hl=pl
+UWAGA: mLegitymację poprzez mobilny USOS PWr mogą aktualnie zamawiać jedynie użytkownicy telefonów z systemem Android. Dla użytkowników systemu iOS, zamówienie mLegitymacji możliwe jest poprzez USOSweb - instrukcja.
+
+W przypadku problemów z zamówieniem, przedłużeniem lub anulowaniem mLegitymacji prosimy o kontakt pod adresem: pomoc+usos@pwr.edu.pl
+
+Drukuj Poleć stronę
