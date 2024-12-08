@@ -49,7 +49,6 @@ public class Langchain4jConfiguration {
 
     @Bean
     @Qualifier("OpenAiChatModel")
-    @SessionScope
     public ChatLanguageModel chatLanguageModelOpenAiChatModel() {
         return OpenAiChatModel.builder()
                 .apiKey(openAiApiKey)
