@@ -11,9 +11,12 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/v1/chat/")
-@RequiredArgsConstructor
 public class PromptController {
-    private final ChatbotService chatbotService;
+    private ChatbotService chatbotService;
+
+    public PromptController(ChatbotService chatbotService) {
+        this.chatbotService = chatbotService;
+    }
 
     @PostMapping
     public ResponseEntity<String> generateResponse(@RequestBody String prompt) {

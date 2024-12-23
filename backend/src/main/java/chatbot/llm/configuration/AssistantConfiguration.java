@@ -59,7 +59,6 @@ public class AssistantConfiguration {
     }
 
     @Bean
-    @SessionScope
     public Assistant assistant() throws URISyntaxException {
         final List<Document> documents = loadDocuments(toPath(), glob());
 
